@@ -11,7 +11,7 @@ email: patricia.gimeno@umu.se
 description: > # this means to ignore newlines until "baseurl:"
   Website of the AramburuLab.
 baseurl: "/AramburuLab"
-url: "https://AramburuLab.github.io"
+url: "https://jared-morgan.github.io/AramburuLab"
 
 
 include:
