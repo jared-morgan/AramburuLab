@@ -1,5 +1,5 @@
 - name: Iker Valle Aramburu
-  photo: Iker.jpg
+  photo: Iker Valle Aramburu.jpg
   info: MIMS Group Leader, since September 2024
   email: iker.aramburu@umu.se
   number_educ: 4
@@ -9,21 +9,35 @@
   education4: Degree of Biochemistry at the University of the Basque Country
 
 - name: Patricia Gimeno
-  photo: Patricia.png
+  photo: Patricia Gimeno.png
   info: Research Assistant, since October 2024
   email: patricia.gimeno@umu.se
   number_educ: 1
-  education1: MSci Biological Sciences, UCL
+  education1: MSci Biological Sciences, University College London
 
 - name: Anup Ram
-  photo: Anup.jpg
-  info: Postdoctoral Scholar, since February 2025
+  photo: Anup Ram.jpg
+  info: Postdoctoral Scholar
   email: anup.ram@umu.se
   number_educ: 2
   education1: PhD at National Institute of Science Education and Research (India)
-  education2: Bio = My name is Anup Kumar Ram and I am a postdoctoral researcher in the Aramburu lab. I completed my PhD from National Institute of Science Education and Research (India), where I studied how compromised protein translation initiation fidelity affects cellular physiology using proteomics, riboseq, genetics, biochemistry and imaging. Since I joined the Aramburu lab in February 2025, I have been working on identifying sORF encoded microproteins during infection and exploring their molecular function. Being a researcher, what excites me the most is to know the unkown. Outside lab, I love music, poetry, cricket, cooking and going to mountains.
+  education2: My name is Anup Kumar Ram and I am a postdoctoral researcher in the Aramburu lab. I completed my PhD from National Institute of Science Education and Research (India), where I studied how compromised protein translation initiation fidelity affects cellular physiology using proteomics, riboseq, genetics, biochemistry and imaging. Since I joined the Aramburu lab in February 2025, I have been working on identifying sORF encoded microproteins during infection and exploring their molecular function. Being a researcher, what excites me the most is to know the unkown. Outside lab, I love music, poetry, cricket, cooking and going to mountains.
 
 - name: Mireia Mallorquí Merino
-  photo: Mireia_Mallorquí_Merino.webp
+  photo: Mireia Mallorquí Merino.webp
   info: Doctoral Student
   email: mireia.mallorqui@umu.se
+
+- name: Rytis Stakaitis
+  photo: Rytis Stakaitis.webp
+  info: Postdoctoral Scholar
+  email: rytis.stakaitis@umu.se
+  number_educ: 1
+  education1: PhD in Biology, Lithuanian University of Health Science
+
+- name: Jose Antonio Flores Gonzalez
+  photo: Jose Antonio Flores Gonzalez.webp
+  info: Doctoral Student
+  email: jose.flores@umu.se
+  number_educ: 1
+  education1: MSc Computational Biology, Polytechnic University of Madrid
