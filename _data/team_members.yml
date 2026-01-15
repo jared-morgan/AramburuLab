@@ -8,15 +8,8 @@
   education3: MSc Molecular Biosciences at Heidelberg University
   education4: Degree of Biochemistry at the University of the Basque Country
 
-- name: Patricia Gimeno
-  photo: Patricia Gimeno.png
-  info: Research Assistant, since October 2024
-  email: patricia.gimeno@umu.se
-  number_educ: 1
-  education1: MSci Biological Sciences, University College London
-
 - name: Anup Ram
-  photo: Anup Ram.jpg
+  photo: Anup Ram.webp
   info: Postdoctoral Scholar
   email: anup.ram@umu.se
   number_educ: 2
@@ -41,3 +34,15 @@
   email: jose.flores@umu.se
   number_educ: 1
   education1: MSc Computational Biology, Polytechnic University of Madrid
+
+- name: Divyanshu Awasthi
+  photo: empty.jpg
+  info: Project Assistant
+  email: divyanshu.awasthi@umu.se
+  number_educ: 1
+  education1: 
+
+- name: Jared Morgan
+  photo: empty.jpg
+  info: Project Assistant
+  email: jared.morgan@umu.se
