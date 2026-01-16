@@ -1,11 +1,3 @@
-# Aramburu Lab Website
-
-This is the website of our academic research group at Umeå University.
-
-This website is powered by Jekyll and some Bootstrap, Bootwatch. 
-
-Website forked from Allan Lab's in Leiden University. Go to [aboutwebsite.md](https://github.com/mpa139/allanlab/blob/gh-pages/_pages/aboutwebsite.md)  to learn how to copy and modify [Allan Lab's page](https://github.com/mpa139/allanlab) the way we did it. 
-
 ## How to update the website
 
 ### Add a new team member
@@ -35,22 +27,16 @@ Website forked from Allan Lab's in Leiden University. Go to [aboutwebsite.md](ht
 
 ### Add a new publication
 
-1.  Clone the repository:
-
-    ``` bash
-    git clone https://github.com/aramburulab/aramburulab.git
-    ```
-
-2.  Copy the example publication file from
+1.  Copy the example publication file from
     `_examples/example_publication.md` to `_publications/`.
 
-3.  Edit the new file to add your publication information.
+2.  Edit the new file to add your publication information.
 
-4.  Add the publication image to the `/images/publications/` directory.
+3.  Add the publication image to the `/images/publications/` directory.
 
-5.  Add the publication PDF to the `/downloads/` directory.
+4.  Add the publication PDF to the `/downloads/` directory.
 
-6.  Commit and push your changes:
+5.  Commit and push your changes:
 
     ``` bash
     git add .

@@ -60,7 +60,9 @@ permalink: /
 
 
 <div class="partner-logos">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_umea.jpg" style="width: 250px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_mims.jpg" style="width: 110px">
-  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px"> -->
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_UMU.jpg" style="width: 166px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_MIMS.jpg" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_ERC.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_Vetenskapsrådet.png" style="width: 166px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_EMBL.png" style="width: 140px">
 </div>
