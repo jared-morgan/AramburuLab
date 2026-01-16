@@ -20,6 +20,22 @@ figcaption {
 
 
 /* Top navigation bar */
+.navbar-brand {
+    font-size: 20px; /* Default */
+    
+    @media (max-width: 768px) {
+        font-size: 13px; /* Smaller on mobile */
+        padding: 15px 10px; /* Reducing side padding */
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        max-width: 80%; /* Ensure it truncates before hitting buttons */
+    }
+    
+     @media (max-width: 400px) {
+        font-size: 11px; /* Even smaller on tiny screens */
+     }
+}
 
 p.byline {
 	text-align: center;
@@ -91,7 +107,8 @@ pubtit {
 .imgteam{
 	margin-bottom: 5px;
 	margin-top: 0;
-    float: left;
+    display: block; /* Cleaner than float */
+    border-radius: 0; /* Remove global border-radius */
 	height: 247px;
     width: 100%;
     object-fit: cover;
