@@ -8,6 +8,7 @@ permalink: /
 
 <p class= "bold-text">Our lab is interested in discovering the role that microproteins and disordered proteins play in innate immune processes by applying an interdisciplinary approach that combines diverse computational and wet-lab approaches.
 </p>
+<br/>
 <!--Picture-->
 <div class="image-container">
    <img src="{{ site.url }}{{ site.baseurl }}/images/20250211_labpicture.jpg" alt="Lab image" />
@@ -56,9 +57,9 @@ permalink: /
   </a>
 </div>
 {% endcomment %}
+<br/>
 <p class="justified-text">The Aramburu lab is an inclusive and interdisciplinary work environment where we foster career development while focusing on addressing biological questions across scales. The Aramburu lab is a member of the Laboratory for Molecular Infection Medicine Sweden (MIMS), the Swedish partner in the Nordic EMBL Partnership for Molecular Medicine. We are always looking for motivated and curious students and scientists to join our team.</p>
-
-
+<br/>
 <div class="partner-logos">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_UMU.jpg" style="width: 166px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_MIMS.jpg" style="width: 100px">
