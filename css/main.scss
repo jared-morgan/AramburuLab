@@ -90,8 +90,12 @@ pubtit {
 /* Team Cards */
 .imgteam{
 	margin-bottom: 5px;
-	margin-top: 30px;
+	margin-top: 0;
+    float: left;
 	height: 247px;
+    width: 100%;
+    object-fit: cover;
+    object-position: top center;
 }
 
 .card {
