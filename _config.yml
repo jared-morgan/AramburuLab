@@ -17,6 +17,12 @@ url: "https://jared-morgan.github.io"
 include:
   - .htaccess
   - _pages
+  - _publications
+
+collections:
+  publications:
+    output: true
+    permalink: /publications/:path/
 
 sass:
   sass_dir: _sass

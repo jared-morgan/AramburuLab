@@ -56,33 +56,11 @@ permalink: /
   </a>
 </div>
 {% endcomment %}
-<p class="justified-text">The Aramburu lab is an inclusive and interdisciplinary work environment where we foster career development while focusing on addressing biological questions across scales. The Aramburu lab is a member of the Laboratory for Molecular Infection Medicine Sweden (MIMS), the Swedish partner in the Nordic EMBL Partnership for Molecular Medicine. We are always looking for a motivated and curious students and scientist to join our team.</p>
+<p class="justified-text">The Aramburu lab is an inclusive and interdisciplinary work environment where we foster career development while focusing on addressing biological questions across scales. The Aramburu lab is a member of the Laboratory for Molecular Infection Medicine Sweden (MIMS), the Swedish partner in the Nordic EMBL Partnership for Molecular Medicine. We are always looking for motivated and curious students and scientists to join our team.</p>
 
-<style>
-   .bold-text {
-     font-weight: bold;
-   }
 
-   .justified{
-     text-align:justify;
-   }
-
-   .image-container{
-     width: 70%;
-     text-align:center;
-     margin: 10px auto;
-   }
-
-   .image-container img{
-     width: 100%;
-     height: auto;
-     display: block; 
-   } 
-
-</style>
-
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_umea.jpg" style="width: 210px">
+<div class="partner-logos">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_umea.jpg" style="width: 250px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_mims.jpg" style="width: 110px">
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px"> -->
-</figure>
+</div>

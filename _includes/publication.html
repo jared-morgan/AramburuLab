@@ -1,0 +1,41 @@
+<div id="{{ include.pub.title | slugify }}" class="card card-publication">
+   <div class="row row-thumb" style="margin-bottom: 0; ">
+      <div class="col-md-3" style="padding-left: 0;">
+         {% if include.pub.image %}
+         <img src="{{ site.url }}{{ site.baseurl }}/images/publications/{{ include.pub.image.name }}"
+            alt="{{include.pub.image.alt-text}}" class="img-publication img-responsive imgpub" />
+         {% else %}
+         <img src="{{ site.url }}{{ site.baseurl }}/images/publications/publication.png"
+            alt="generic image of a publication" class="img-publication img-responsive imgpub" />
+         {% endif %}
+      </div>
+      <div class="col-md-9">
+         {% if include.pub.pdf %}
+         <p class="title"
+            style="padding-top: 0; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;">
+            <a href="{{ include.pub.pdf }}" target="_blank">{{ include.pub.title }}</a>
+         </p>
+         {% else %}
+         <p class="title"
+            style="padding-top: 0; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;">
+            {{ include.pub.title }}</p>
+         {% endif %}
+         <p class="description" style="margin-bottom: 10px;">{{ include.pub.description }}</p>
+         <p class="detail">{{ include.pub.authors }}</p>
+         <p class="detail"><strong>{{ include.pub.venue }}</strong>&nbsp;<strong>{{ include.pub.year
+               }}</strong>&nbsp;&#8209;&nbsp;{{ include.pub.venue-full }}</p>
+         <div class="detail pub-links">
+            <ul class="pub-links-list">
+               {% if include.pub.pdf %}
+               <li><a href="{{ include.pub.pdf }}" target="_blank">PDF</a></li>
+               {% endif %}
+               {% if include.pub.external-links %}
+               {% for link in include.pub.external-links %}
+               <li><a href="{{link.url}}" target="_blank">{{link.name}}</a></li>
+               {% endfor %}
+               {% endif %}
+            </ul>
+         </div>
+      </div>
+   </div>
+</div>

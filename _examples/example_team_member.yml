@@ -1,0 +1,15 @@
+ExampleName:
+  name: Example Name
+  photo: example.jpg # This should be placed in images/team/
+  info: Position
+  institution: Institution Name
+  url: https://www.institution-website.com/staff/example-name/
+  links:
+    - name: email
+      url:
+    - name: web
+      url: https://www.personal-website.com
+    - name: linkedin
+      url: https://www.linkedin.com/in/example
+    - name: scholar
+      url: https://scholar.google.com/citations?user=example
