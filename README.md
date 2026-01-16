@@ -23,7 +23,9 @@ Website forked from Allan Lab's in Leiden University. Go to [aboutwebsite.md](ht
 
 4.  Add the team member image to the `/images/team/` directory.
 
-5.  Commit and push your changes:
+5.  Update the top of the `_data/news.yml` page to include the new team member.
+
+6.  Commit and push your changes:
 
     ``` bash
     git add .
@@ -50,7 +52,9 @@ Website forked from Allan Lab's in Leiden University. Go to [aboutwebsite.md](ht
 
 5.  Add the publication PDF to the `/downloads/` directory.
 
-6.  Commit and push your changes:
+6.  Update the top of the `_data/news.yml` page to include the new publication.
+
+7.  Commit and push your changes:
 
     ``` bash
     git add .
