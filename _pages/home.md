@@ -65,5 +65,4 @@ permalink: /
   <img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_MIMS.jpg" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_ERC.png" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_Vetenskapsrådet.png" style="width: 166px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_EMBL.png" style="width: 140px">
 </div>
