@@ -6,7 +6,9 @@ sitemap: false
 permalink: /vacancies
 ---
 # Open positions
+**We do not currently have any advertised positions. Please check back soon, or contact us if you are interested in future opportunities.** <br/><br/>
 
+{%comment%} 
 **We are currently open for PhD and postdoc applications related to our ERC grant.**
 
 We are  looking for new group members with passion, talent, and grit!
@@ -19,3 +21,4 @@ We are  looking for new group members with passion, talent, and grit!
 <p class="line3">Open Postdoctoral positions:</p>
   <p class="line4">-ERC funded Postdoctoral position in Bioinformatics, see [postdocinumeå.nl](https://www.umu.se/en/work-with-us/open-positions/erc-funded-postdoctoral-position-in-bioinformatics_792465/)</p>
   <p class="line5">-ERC funded Postdoctoral position in genetic engineering of immune cells, see [postdocinumeå.nl](https://www.umu.se/en/work-with-us/open-positions/erc-funded-postdoctoral-position-in-genetic-engineering-of-immune-cells_792513/)</p>
+  {%endcomment%}

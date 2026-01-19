@@ -31,16 +31,6 @@ AnupRam:
   links:
     - name: email
       url: anup.ram@umu.se
-  
-MireiaMallorquiMerino:
-  name: Mireia Mallorquí Merino
-  photo: Mireia Mallorquí Merino.webp
-  info: Doctoral Student
-  institution: Umeå University
-  url: https://www.umu.se/en/staff/mireia-mallorqui
-  links:
-    - name: email
-      url: mireia.mallorqui@umu.se
 
 RytisStakaitis:
   name: Rytis Stakaitis
@@ -51,6 +41,16 @@ RytisStakaitis:
   links:
     - name: email
       url: rytis.stakaitis@umu.se
+ 
+MireiaMallorquiMerino:
+  name: Mireia Mallorquí Merino
+  photo: Mireia Mallorquí Merino.webp
+  info: Doctoral Student
+  institution: Umeå University
+  url: https://www.umu.se/en/staff/mireia-mallorqui
+  links:
+    - name: email
+      url: mireia.mallorqui@umu.se
   
 JoseAntonioFloresGonzalez:
   name: Jose Antonio Flores Gonzalez
