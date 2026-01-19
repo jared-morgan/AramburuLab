@@ -277,3 +277,11 @@ pubtit {
 .team-links-list :not(:first-child){
 	margin-left: 1.1em;
 }
+
+/* News Widget */
+.news-container {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-top: 10px;
+}
