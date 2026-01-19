@@ -44,10 +44,10 @@ permalink: /
 <br/>
 <div class="partner-logos">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_UMU.jpg" style="width: 166px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_MIMS.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_ERC.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_UCMR.jpg" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_Kempestiftelserna.jpg" style="width: 166px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_Nordic_EMBLPartnership.png" style="width: 166px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_UCMR.jpg" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_MIMS.jpg" style="width: 115px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_Nordic_EMBLPartnership.png" style="width: 180px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_ERC.png" style="width: 225px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_Vetenskapsrådet.png" style="width: 180px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo_Kempestiftelserna.jpg" style="width: 180px">
 </div>

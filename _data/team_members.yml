@@ -19,8 +19,10 @@ IkerValleAramburu:
   institution: Umeå University
   url: https://www.umu.se/en/staff/iker-aramburu/
   links:
-    - name: email
+    - name: Email
       url: iker.aramburu@umu.se
+    - name: Bluesky
+      url: https://bsky.app/profile/ivaramburu.bsky.social
 
 AnupRam:
   name: Anup Ram
@@ -29,7 +31,7 @@ AnupRam:
   institution: Umeå University
   url: https://www.umu.se/en/staff/anup-ram/
   links:
-    - name: email
+    - name: Email
       url: anup.ram@umu.se
 
 RytisStakaitis:
@@ -39,7 +41,7 @@ RytisStakaitis:
   institution: Umeå University
   url: https://www.umu.se/en/staff/rytis-stakaitis/
   links:
-    - name: email
+    - name: Email
       url: rytis.stakaitis@umu.se
  
 MireiaMallorquiMerino:
@@ -49,7 +51,7 @@ MireiaMallorquiMerino:
   institution: Umeå University
   url: https://www.umu.se/en/staff/mireia-mallorqui
   links:
-    - name: email
+    - name: Email
       url: mireia.mallorqui@umu.se
   
 JoseAntonioFloresGonzalez:
@@ -59,7 +61,7 @@ JoseAntonioFloresGonzalez:
   institution: Umeå University
   url: https://www.umu.se/en/staff/jose-flores/
   links:
-    - name: email
+    - name: Email
       url: jose.flores@umu.se
 
 DivyanshuAwasthi:
@@ -69,7 +71,7 @@ DivyanshuAwasthi:
   institution: Umeå University
   url: https://www.umu.se/en/staff/divyanshu-awasthi/
   links:
-    - name: email
+    - name: Email
       url: divyanshu.awasthi@umu.se
 
 JaredMorgan:
@@ -79,7 +81,7 @@ JaredMorgan:
   institution: Umeå University
   url: https://www.umu.se/en/staff/jared-morgan/
   links:
-    - name: email
+    - name: Email
       url: jared.morgan@umu.se
 
 PatriciaGimeno:

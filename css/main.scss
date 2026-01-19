@@ -282,6 +282,11 @@ pubtit {
 .news-container {
     background-color: #fff;
     border: 1px solid #ddd;
-    padding: 20px;
+    padding: 10px;
     margin-top: 10px;
+
+    h3 {
+        text-align: center;
+        margin-top: 0;
+    }
 }
