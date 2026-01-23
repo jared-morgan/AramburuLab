@@ -1,11 +1,12 @@
 members:
   - IkerValleAramburu
   - AnupRam
-  - MireiaMallorquiMerino
+  - MireiaMallorquíMerino
   - RytisStakaitis
   - JoseAntonioFloresGonzalez
   - DivyanshuAwasthi
   - JaredMorgan
+  - LucíaBlázquezPérez
 
 alumni:
   - PatriciaGimeno
@@ -44,7 +45,7 @@ RytisStakaitis:
     - name: Email
       url: rytis.stakaitis@umu.se
  
-MireiaMallorquiMerino:
+MireiaMallorquíMerino:
   name: Mireia Mallorquí Merino
   photo: Mireia Mallorquí Merino.webp
   info: Doctoral Student
@@ -96,3 +97,13 @@ Ruth-FeliciaAndersson:
   info: Masters Student 2025
   institution: Umeå University
   url: https://www.umu.se/en/staff/ruth-felicia-andersson/
+
+LucíaBlázquezPérez:
+  name: Lucía Blázquez Pérez
+  photo: empty.jpg
+  info: Erasmus Student
+  institution: 
+  url: 
+  links:
+    - name: Email
+      url: lubl0014@student.umu.se
