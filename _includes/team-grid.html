@@ -1,34 +1,36 @@
-{% assign member_source = include.type | default: "members" %}
-{% assign members = site.data.team_members[member_source] %}
-<div class="row people-row">
-{% for member_id in members %}
-{% assign person = site.data.team_members[member_id] %}
-{% if person.url %}
-{% assign person_url = person.url %}
-{% else %}
-{% assign person_url = "/team/" | append: member_id | append: ".html" | relative_url %}
-{% endif %}
-<div class="col-sm-3">
-<div id="{{ member_id }}" class="card card-team-member">
-<a href="{{ person_url }}">
-<img src="{{ person.photo | prepend: '/images/team/' | relative_url }}" class="img-responsive imgteam" />
-</a>
-<div class="card-body">
-<p class="title">{{ person.name }}</p>
-<p class="detail">{{ person.info }}</p>
-<div class="detail team-links">
-<ul class="team-links-list">
-{% for link in person.links %}
-<li>
-<a href="{% if link.name contains 'mail' %}mailto:{% endif %}{{ link.url }}" target="_blank">
-{{ link.name }}
-</a>
-</li>
-{% endfor %}
-</ul>
-</div>
-</div>
-</div>
-</div>
-{% endfor %}
-</div>
+<html>
+    <div class="row people-row">
+        {% assign member_source = include.type | default: "members" %}
+        {% assign members = site.data.team_members[member_source] %}
+        {% for member_id in members %}
+        {% assign person = site.data.team_members[member_id] %}
+        {% if person.url %}
+        {% assign person_url = person.url %}
+        {% else %}
+        {% assign person_url = "/team/" | append: member_id | append: ".html" | relative_url %}
+        {% endif %}
+        <div class="col-sm-3">
+            <div id="{{ member_id }}" class="card card-team-member">
+                <a href="{{ person_url }}">
+                <img src="{{ person.photo | prepend: '/images/team/' | relative_url }}" class="img-responsive imgteam" />
+                </a>
+                <div class="card-body">
+                    <p class="title">{{ person.name }}</p>
+                    <p class="detail">{{ person.info }}</p>
+                    <div class="detail team-links">
+                        <ul class="team-links-list">
+                            {% for link in person.links %}
+                                <li>
+                                <a href="{% if link.name contains 'mail' %}mailto:{% endif %}{{ link.url }}" target="_blank">
+                                    {{ link.name }}
+                                </a>
+                                </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</html>

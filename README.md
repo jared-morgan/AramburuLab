@@ -66,6 +66,18 @@ Website forked from Allan Lab's in Leiden University. Go to [aboutwebsite.md](ht
 
 ------------------------------------------------------------------------
 
+### Update page contents
+
+Page text found within `/_pages/` uses markdown.
+
+Headers, footers and sidebars found within `/_includes/`. 
+> **Note:** Ensure these files start with an HTML tag; starting with plain text can cause Jekyll to misinterpret them as Markdown and break the layout.
+
+Site layouts can be found in `/_layouts/`, you usually won't need to touch these.
+
+
+------------------------------------------------------------------------
+
 ### Build website locally
 
 1.  Install [Ruby](https://rubyinstaller.org/downloads/) if you haven't
