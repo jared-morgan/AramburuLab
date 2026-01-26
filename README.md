@@ -16,10 +16,10 @@ Website forked from Allan Lab's in Leiden University. Go to [aboutwebsite.md](ht
     git clone https://github.com/aramburulab/aramburulab.git
     ```
 
-2.  Copy the example team member file from
+2.  Copy the example team member from
     `_examples/example_team_member.yml` to `_data/team_members.yml`.
 
-3.  Edit the new file to add your team member information.
+3.  Fill out the example and update the members/alumni list at the top of the page.
 
 4.  Add the team member image to the `/images/team/` directory.
 
