@@ -48,13 +48,15 @@ Website forked from Allan Lab's in Leiden University. Go to [aboutwebsite.md](ht
 
 3.  Edit the new file to add your publication information.
 
-4.  Add the publication image to the `/images/publications/` directory.
+4.  Name the file, starting with the date of publication in the format YYYY_MM_DD.
 
-5.  Add the publication PDF to the `/downloads/` directory.
+5.  Optionally, add the publication image to the `/images/publications/` directory.
 
-6.  Update the top of the `_data/news.yml` page to include the new publication.
+6.  Optionally, add the publication PDF to the `/downloads/` directory.
 
-7.  Commit and push your changes:
+7.  Update the top of the `_data/news.yml` page to include the new publication, you can include a link if you like.
+
+8.  Commit and push your changes:
 
     ``` bash
     git add .

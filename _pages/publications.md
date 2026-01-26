@@ -13,7 +13,6 @@ permalink: /publications/
 <br/>
 <!-- To see the publications on the page, remove the {%comment%} and {%endcomment%} -->
 
-{%comment%}
 {::nomarkdown}
 <div class="publications">
    {% for publication in site.publications reversed %}
@@ -21,4 +20,3 @@ permalink: /publications/
    {% endfor %}
 </div>
 {:/}
-{%endcomment%}

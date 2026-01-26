@@ -25,10 +25,7 @@ external-links:
   - name: DOI
     url: https://doi.org/10.xxxx/xxxxx
 
-venue:  Journal
+venue-short:  Journal
 venue-full: "Example Journal Full Name, 2026"
 year: 2026
-
-projects:
-  - inclusive_education
 ---
